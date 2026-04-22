@@ -160,11 +160,11 @@ END:VCARD`;
             </div>
             
             <div className="grid grid-cols-3 gap-4">
-              <motion.a whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} href="https://wa.me/2348022951025" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center py-5 bg-red-700 hover:bg-red-800 transition-colors text-white rounded-md">
+              <motion.a whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} href="whatsapp://send?phone=2348022951025" className="flex flex-col items-center justify-center py-5 bg-red-700 hover:bg-red-800 transition-colors text-white rounded-md">
                 <MessageCircle className="w-5 h-5 mb-2" />
                 <span className="font-bold tracking-widest uppercase text-[10px]">WhatsApp</span>
               </motion.a>
-              <motion.a whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} href="https://ng.linkedin.com/in/linda-quaynor-a428a011" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center py-5 bg-neutral-800 hover:bg-neutral-700 transition-colors text-white rounded-md">
+              <motion.a whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} href="linkedin://profile/linda-quaynor-a428a011" className="flex flex-col items-center justify-center py-5 bg-neutral-800 hover:bg-neutral-700 transition-colors text-white rounded-md">
                 <Linkedin className="w-5 h-5 mb-2" />
                 <span className="font-bold tracking-widest uppercase text-[10px]">LinkedIn</span>
               </motion.a>
