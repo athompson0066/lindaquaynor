@@ -1,0 +1,16 @@
+{
+  "name": "Linda Quaynor Executive",
+  "short_name": "Linda Quaynor",
+  "description": "Digital business card for Linda Quaynor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#a90600",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuAJ2PR_4e8GqYSkq-2jJ2bMOvDP1NfAQdE-AmOwa8zl3RPAA_S5KbyMp72QyICwABLegW1q-y7ty_UDLtrjxkwlbSWAMzpA_7DwLOeAwL92q186gijySTDV8IXu-asxEkvV3yvgpwlnRS_mceAcQfGoPqiKDobOo-x74y6is-e3sfr_cG4r27SBHKJ-Zm1HKlTwu9gZKckdSDrpmfqY_RXQvQW2zUiiWpPZT1jBKv_7ylO-XIt_xUEe0clODuUZhlTyIw8yw2VM-IM",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
